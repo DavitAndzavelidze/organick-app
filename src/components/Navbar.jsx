@@ -266,13 +266,14 @@ export default function Navbar() {
             <h3>Changelog</h3>
           </div>
         </div>
-        <div className="text-center border-t-2 pt-[1rem] md:mt-[3rem]">
+        <div className="text-center border-t-2 pt-[1rem] md:mt-[3rem] w-[280px] mx-auto md:w-[600px]">
           <p>
             Copyright © <span className="font-bold">Organick</span> | Designed
             by
             <span className="font-bold"> VictorFlow</span> Templates - Powered
             by
-            <span className="font-bold"> Webflow</span>
+            <span className="font-bold"> Webflow</span> recreate by{" "}
+            <span className="font-bold">Davit Andzavelidze</span>
           </p>
         </div>
       </footer>
