@@ -55,7 +55,7 @@ export default function Home() {
   return (
     <>
       {/* ------------------- Hero Start ------------------*/}
-      <div className="relative">
+      <div className="relative overflow-x-hidden">
         <div className="h-[328px] lg:h-[898px]">
           <img
             className="object-cover object-right h-full w-full"

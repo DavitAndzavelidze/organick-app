@@ -48,7 +48,7 @@ export default function Navbar() {
           ""
         )}
         <div>
-          <div className="w-full items-center px-[14px] lg:px-[36px] flex justify-between h-[64px] bg-white lg:h-[76px] fixed top-0 left-0 z-[100] ">
+          <div className="w-full items-center px-[14px] lg:px-[36px] flex justify-between h-[64px] bg-white lg:h-[76px] fixed top-0 left-0 z-[100]">
             <div className="text-[32px] md:text-[20px] md:items-center flex gap-[10px]">
               <img className="h-[50px]" src={Logo} alt="Company Logo" />
               <p className="font-bold text-[#274C5B]">Organick</p>
@@ -129,7 +129,7 @@ export default function Navbar() {
             className={
               nav
                 ? `fixed top-0 left-0 z-[50] w-full font-bold text-[22px] text-center duration-300 md:hidden`
-                : `fixed top-[-100%] left-0 z-[50] w-full font-bold text-[22px] text-center  duration-300 md:hidden overflow-hidden`
+                : `fixed top-[-100%] left-0 z-[50] w-full font-bold text-[22px] text-center duration-300 md:hidden overflow-hidden`
             }
           >
             <div className="flex flex-col gap-[20px] md:flex pt-[5rem] pb-[2rem] md:mt-[0px] text-white text-[22px] items-left w-full bg-slate-700 md:h-full z-100">
