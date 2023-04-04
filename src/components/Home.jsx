@@ -70,7 +70,7 @@ export default function Home() {
           <h1 className="text-[35px] md:text-[40px] text-[#274C5B] font-[900] w-[274px] md:w-[370px] lg:w-[530px] leading-[41px] md:leading-[50px] mb-[23px] lg:text-[70px] lg:leading-[82px]">
             Choose the best healthier way of life
           </h1>
-          <div className="flex items-center bg-[#EFD372] px-[20px] py-[15px] gap-[10px] md:w-[180px] rounded-[16px] lg:px-[35px] lg:py-[20px] lg:w-[230px] lg:cursor-pointer group hover:lg:bg-[#274C5B]">
+          <div className="flex items-center bg-[#EFD372] px-[20px] py-[15px] gap-[10px] md:w-[180px] rounded-[16px] lg:px-[35px] lg:py-[20px] lg:w-[215px] lg:cursor-pointer group hover:lg:bg-[#274C5B]">
             <button className="text-[#274C5B] group-hover:lg:text-[#fff] lg:text-[20px] font-bold">
               Explore Now
             </button>
