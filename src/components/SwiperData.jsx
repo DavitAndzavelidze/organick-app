@@ -1,12 +1,12 @@
 import Stars from "../assets/Star.svg";
-import Broccoli from "../assets/broccoli.png";
-import Banana from "../assets/banana.png";
-import Nuts from "../assets/nuts.png";
-import Tomato from "../assets/tomato.png";
-import Bean from "../assets/bean.png";
-import Hazelnut from "../assets/hazelnut.png";
-import Eggs from "../assets/eggs.png";
-import Rust from "../assets/rust.png";
+import Broccoli from "../assets/broccoli.webp";
+import Banana from "../assets/banana.webp";
+import Nuts from "../assets/nuts.webp";
+import Tomato from "../assets/tomato.webp";
+import Bean from "../assets/bean.webp";
+import Hazelnut from "../assets/hazelnut.webp";
+import Eggs from "../assets/eggs.webp";
+import Rust from "../assets/rust.webp";
 
 export const swiperData = [
   {
